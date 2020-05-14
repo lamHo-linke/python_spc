@@ -1,4 +1,4 @@
-# python_spc
+# 用Python实现SPC统计过程控制
 
 ## SPC与六西格玛
 
