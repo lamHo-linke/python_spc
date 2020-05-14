@@ -1,7 +1,7 @@
 Work on Statistical Process Control using Python, gonna to give two examples on **U chart** and **I-MR chart.**
 
 # 用Python实现SPC统计过程控制
-
+<img src='https://pic.downk.cc/item/5ea43695c2a9a83be5ec5654.png' width=450>
 ## SPC与六西格玛
 
 SPC (Statistical Process Control) 统计过程控制，是六西格玛工业管理理论的其中一个重要模块。SPC的控制图 (control chart) 是数据可视化的一个重要手段。而控制图的选择应该根据实际需求来，这里不展开讲控制图，关于控制图的细节可以查找其他资料。（7 种控制图，8 个判异准则。）
